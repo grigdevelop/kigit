@@ -9,6 +9,6 @@ The KiGit cli tool just for running git commands without using mouse
 ## Installation
 
 ```
-$ npm install -g @grig/kigit
+$ npm install -g @grigdevelop/kigit
 ```
 ```
