@@ -1,6 +1,6 @@
 {
   "name": "@grigdevelop/kigit",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "description": "KiGit - command tool for working with git commands",
   "publishConfig": {
     "access": "public"
@@ -45,6 +45,7 @@
     "chalk": "3.0.0",
     "chokidar": "3.4.0",
     "cli-table3": "0.5.1",
+    "clipboardy": "^2.3.0",
     "commander": "4.1.1",
     "fork-ts-checker-webpack-plugin": "4.1.4",
     "inquirer": "7.1.0",
@@ -63,6 +64,7 @@
   "devDependencies": {
     "@commitlint/cli": "8.3.5",
     "@commitlint/config-angular": "8.3.4",
+    "@types/clipboardy": "^2.0.1",
     "@types/copyfiles": "2.2.0",
     "@types/inquirer": "6.5.0",
     "@types/jest": "25.2.3",
