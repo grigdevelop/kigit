@@ -53,7 +53,7 @@
     "ora": "4.0.4",
     "os-name": "3.1.0",
     "rimraf": "3.0.2",
-    "shelljs": "0.8.4",
+    "shelljs": "0.8.5",
     "tree-kill": "1.2.2",
     "tsconfig-paths": "3.9.0",
     "tsconfig-paths-webpack-plugin": "3.2.0",
